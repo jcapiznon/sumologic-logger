@@ -1,0 +1,8 @@
+{
+  "httpSource": {
+    "label": "Http Source",
+    "type": "url",
+    "required": true,
+    "help": "Specify your Sumologic Http Source."
+  }
+}
